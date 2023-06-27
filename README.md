@@ -23,7 +23,7 @@ INSIGHTS DRAWN-
     is for people working above 7 years.
    * R & D-Max attrition by age is in the age group 26-35 and 22% of the people who have left belong to life sciences and from these, lab technicians have very low job 
     satisfaction and high attrition rates of 24.1%
-   *SALES-Maximum attrition by education is in the  marketing (38%).In marketing, maximum attrition by age is between the years 26-35 and then from 18-25.Maximum people who 
-    have done attrition were the ones who have  worked at the  company for 2 years.Sales executive gave the least job satisfaction ratings and sales representative has the 
-    highest attrition rate of 39.8% and average salary of 2.63K.
+   * SALES-Maximum attrition by education is in the  marketing (38%).In marketing, maximum attrition by age is between the years 26-35 and then from 18-25.Maximum people 
+    who have done attrition were the ones who have  worked at the  company for 2 years.Sales executive gave the least job satisfaction ratings and sales representative has 
+    the highest attrition rate of 39.8% and average salary of 2.63K.
 
